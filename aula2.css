@@ -1,0 +1,29 @@
+#banner{
+   width: 400px;
+   
+}
+.caixa{
+   position: relative;
+   width: 940px;
+   right: 0 auto;
+}
+header{
+   background: #CCCCCC;
+}
+nav li{
+   display: inline;     /*lista de lado*/
+   margin: 0 0 0 15px; /*espasçamento*/
+}
+nav a{
+   text-transform: uppercase;    /*dx maiusculo*/
+   font-weight: bold;            /*negrito*/
+   font-size: 22px;
+   text-decoration: none;        
+
+
+}
+nav{
+   position: absolute;
+   top: 110px;
+   right: 0;
+}
