@@ -1,0 +1,18 @@
+main {
+	width: 940px;
+	margin: 0 auto;
+	border: 2px solid #000000;
+	border-radius: 10px; /*/ ARREDENDAR A BORDA */
+	border-style: bold;
+}
+
+form {
+	margin: 40px 20px;
+	font-size: 20px;
+}
+form label{
+	display: block;
+}
+form input{
+	display: block;
+}
